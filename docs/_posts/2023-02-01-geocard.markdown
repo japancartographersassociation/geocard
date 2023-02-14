@@ -3,7 +3,7 @@ title:  "GeoCard"
 subtitle: "ジオパークでジオキャッシング特製ジオカードについて"
 author: "mapconcierge"
 avatar: "img/authors/taichi_kao50x50.jpg"
-image: "img/ebee2.jpg"
+image: "img/GeoCard_thumnail.jpg"
 date:   2023-02-01 12:12:12
 ---
 
