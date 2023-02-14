@@ -1,7 +1,7 @@
 # Site settings
-title: Geo for Teachers 
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
+title: GeoCard in Geo Park
+description: ジオパークでジオキャッシング・ジオカード特設サイト
+keywords: IGU, GeoNight, Geo Park, Geocaching
 author: mapconcierge
-baseurl: "/geo4teachers/" # the subpath of your site, e.g. /blog/
-url: "https://furuhashilab.github.io" # the base hostname & protocol for your site
+baseurl: "/geocard/" # the subpath of your site, e.g. /blog/
+url: "https://japancartographersassociation.github.io" # the base hostname & protocol for your site
